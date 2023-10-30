@@ -1,0 +1,146 @@
+{
+  "videos": [
+    {
+      "id": 2,
+      "caption": "Leo Trailer",
+      "cover_image": "https://static.toiimg.com/thumb/msid-101172246,imgsize-129900,width-400,resizemode-4/101172246.jpg",
+      "video_url": "https://www.youtube.com/embed/Po3jStA673E?autoplay=1"
+    },
+    {
+      "id": 3,
+      "caption": "Ayalaan teaser",
+      "cover_image": "https://static.toiimg.com/thumb/msid-99723049,imgsize-78046,width-400,resizemode-4/99723049.jpg",
+      "video_url": "https://www.youtube.com/embed/kRhDvelx9uE?autoplay=1"
+    },
+    {
+      "id": "lnwn5lhp",
+      "caption": "Captain Miller teaser",
+      "cover_image": "https://th-i.thgim.com/public/entertainment/movies/g08gz7/article65596261.ece/alternates/LANDSCAPE_1200/captainmiller.jpg",
+      "video_url": "https://www.youtube.com/embed/bSkOF-mEbUU?autoplay=1"
+    },
+    {
+      "id": "lnwn8yal",
+      "caption": "Salaar teaser",
+      "cover_image": "https://www.hindustantimes.com/ht-img/img/2023/10/16/550x309/Prithviraj_Sukumaran_1697444458410_1697444496040.png",
+      "video_url": "https://www.youtube.com/embed/bUR_FKt7Iso?autoplay=1"
+    },
+    {
+      "id": "lnwnb92e",
+      "caption": "Kannur Squad Trailer",
+      "cover_image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Kannur_Squad_poster.jpeg/220px-Kannur_Squad_poster.jpeg",
+      "video_url": "https://www.youtube.com/embed/j7uWUMd_ItE?autoplay=1"
+    },
+    {
+      "id": 4,
+      "caption": "Tum hi ho Song",
+      "cover_image": "https://w0.peakpx.com/wallpaper/350/192/HD-wallpaper-movie-aashiqui-2-thumbnail.jpg",
+      "video_url": "https://www.youtube.com/embed/Umqb9KENgmk?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "song",
+      "videos": [
+        {
+          "id": 3,
+          "caption": "Ayalaan teaser",
+          "cover_image": "https://static.toiimg.com/thumb/msid-99723049,imgsize-78046,width-400,resizemode-4/99723049.jpg",
+          "video_url": "https://www.youtube.com/embed/kRhDvelx9uE?autoplay=1"
+        },
+        {
+          "id": "lnwn5lhp",
+          "caption": "Captain Miller teaser",
+          "cover_image": "https://th-i.thgim.com/public/entertainment/movies/g08gz7/article65596261.ece/alternates/LANDSCAPE_1200/captainmiller.jpg",
+          "video_url": "https://www.youtube.com/embed/bSkOF-mEbUU?autoplay=1"
+        },
+        {
+          "id": 3,
+          "caption": "Ayalaan teaser",
+          "cover_image": "https://static.toiimg.com/thumb/msid-99723049,imgsize-78046,width-400,resizemode-4/99723049.jpg",
+          "video_url": "https://www.youtube.com/embed/kRhDvelx9uE?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "movies",
+      "videos": [
+        {
+          "id": 4,
+          "caption": "Tum hi ho Song",
+          "cover_image": "https://w0.peakpx.com/wallpaper/350/192/HD-wallpaper-movie-aashiqui-2-thumbnail.jpg",
+          "video_url": "https://www.youtube.com/embed/Umqb9KENgmk?autoplay=1"
+        },
+        {
+          "id": "lnwn8yal",
+          "caption": "Salaar teaser",
+          "cover_image": "https://www.hindustantimes.com/ht-img/img/2023/10/16/550x309/Prithviraj_Sukumaran_1697444458410_1697444496040.png",
+          "video_url": "https://www.youtube.com/embed/bUR_FKt7Iso?autoplay=1"
+        },
+        {
+          "id": "lnwn5lhp",
+          "caption": "Captain Miller teaser",
+          "cover_image": "https://th-i.thgim.com/public/entertainment/movies/g08gz7/article65596261.ece/alternates/LANDSCAPE_1200/captainmiller.jpg",
+          "video_url": "https://www.youtube.com/embed/bSkOF-mEbUU?autoplay=1"
+        },
+        {
+          "id": 3,
+          "caption": "Ayalaan teaser",
+          "cover_image": "https://static.toiimg.com/thumb/msid-99723049,imgsize-78046,width-400,resizemode-4/99723049.jpg",
+          "video_url": "https://www.youtube.com/embed/kRhDvelx9uE?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Entertainment",
+      "videos": [
+        {
+          "id": "lnwnb92e",
+          "caption": "Kannur Squad Trailer",
+          "cover_image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Kannur_Squad_poster.jpeg/220px-Kannur_Squad_poster.jpeg",
+          "video_url": "https://www.youtube.com/embed/j7uWUMd_ItE?autoplay=1"
+        },
+        {
+          "id": 4,
+          "caption": "Tum hi ho Song",
+          "cover_image": "https://w0.peakpx.com/wallpaper/350/192/HD-wallpaper-movie-aashiqui-2-thumbnail.jpg",
+          "video_url": "https://www.youtube.com/embed/Umqb9KENgmk?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo77rki8",
+      "video_title": "Leo Trailer",
+      "url": "https://www.youtube.com/embed/Po3jStA673E?autoplay=1",
+      "date": "2023-10-26 6:52:08 PM"
+    },
+    {
+      "id": "lo77td5t",
+      "video_title": "Captain Miller teaser",
+      "url": "https://www.youtube.com/embed/bSkOF-mEbUU?autoplay=1",
+      "date": "2023-10-26 6:53:32 PM"
+    },
+    {
+      "id": "lo8294hu",
+      "video_title": "Captain Miller teaser",
+      "url": "https://www.youtube.com/embed/bSkOF-mEbUU?autoplay=1",
+      "date": "2023-10-27 9:05:36 AM"
+    },
+    {
+      "id": "lo829dqy",
+      "video_title": "Kannur Squad Trailer",
+      "url": "https://www.youtube.com/embed/j7uWUMd_ItE?autoplay=1",
+      "date": "2023-10-27 9:05:48 AM"
+    },
+    {
+      "id": "lo82kqdr",
+      "video_title": "Ashiqui 2 Song",
+      "url": "https://www.youtube.com/embed/vpuajZ4ZW2A?autoplay=1",
+      "date": "2023-10-27 9:14:38 AM"
+    }
+  ]
+}
